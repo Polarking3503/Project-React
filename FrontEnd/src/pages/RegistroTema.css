@@ -1,0 +1,13 @@
+.ButtonAdd{
+    display: flex;
+    justify-content: flex-end;
+    margin-top: 30px;
+}
+.Card_Component{
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    height: 90vh;
+}

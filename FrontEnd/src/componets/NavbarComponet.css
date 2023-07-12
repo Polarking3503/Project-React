@@ -1,0 +1,10 @@
+.logoPotato_var{
+    height: 80px;
+    padding-right: 20px;
+}
+.contenidoLogo{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
